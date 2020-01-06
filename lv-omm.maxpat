@@ -2954,8 +2954,8 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 407.5, 60.75, 110.0, 22.0 ],
-									"text" : "r B_lv-omm_switch"
+									"patching_rect" : [ 407.5, 60.75, 109.0, 22.0 ],
+									"text" : "r A_lv-omm_switch"
 								}
 
 							}
@@ -2966,8 +2966,8 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 236.0, 60.75, 109.0, 22.0 ],
-									"text" : "r A_lv-omm_switch"
+									"patching_rect" : [ 236.0, 60.75, 110.0, 22.0 ],
+									"text" : "r B_lv-omm_switch"
 								}
 
 							}
@@ -3691,7 +3691,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 260.0, 273.0, 702.0, 22.0 ],
-													"text" : "\"Macintosh HD:/Users/ericheep/git/lv-omm/tracks/ambient/OOM_Dextered_feath_112_C_.premasterwav.wav\""
+													"text" : "\"Macintosh HD:/Users/ericheep/git/lv-omm/tracks/chill/OMM_Bri_JassHat_85_C_premaster.wav\""
 												}
 
 											}
@@ -4107,13 +4107,12 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-39",
-									"linecount" : 2,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 784.0, 53.0, 50.0, 35.0 ],
-									"text" : "111.042202"
+									"patching_rect" : [ 784.0, 53.0, 50.0, 22.0 ],
+									"text" : "80."
 								}
 
 							}
@@ -4829,13 +4828,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-18",
-					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 215.0, 386.0, 53.0, 35.0 ],
-					"text" : "111.042202"
+					"patching_rect" : [ 215.0, 386.0, 53.0, 22.0 ],
+					"text" : "80."
 				}
 
 			}
