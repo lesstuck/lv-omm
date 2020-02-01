@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ -1490.0, 310.0, 1218.0, 693.0 ],
+		"rect" : [ -1263.0, 385.0, 904.0, 499.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -71,7 +71,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 634.0, 344.0, 213.0, 29.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 512.5, 143.5, 175.5, 29.0 ],
+					"presentation_rect" : [ 513.5, 143.5, 175.5, 29.0 ],
 					"text" : "??? Transition"
 				}
 
@@ -86,7 +86,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 601.0, 346.5, 24.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 484.0, 146.0, 24.0, 24.0 ]
+					"presentation_rect" : [ 485.0, 146.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -108,8 +108,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 325.0, 407.5, 149.0, 22.0 ],
-					"text" : "s lv-omm_queueTransition"
+					"patching_rect" : [ 325.0, 407.5, 188.0, 22.0 ],
+					"text" : "s lv-omm_queueCdSkipTransition"
 				}
 
 			}
@@ -124,8 +124,8 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 345.0, 344.0, 213.0, 29.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 268.5, 143.5, 205.5, 29.0 ],
-					"text" : "??? Transition"
+					"presentation_rect" : [ 262.5, 143.5, 213.5, 29.0 ],
+					"text" : "CD Skip Transition"
 				}
 
 			}
@@ -139,7 +139,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 312.0, 346.5, 24.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 240.0, 146.0, 24.0, 24.0 ]
+					"presentation_rect" : [ 234.0, 146.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -161,8 +161,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 325.0, 310.0, 149.0, 22.0 ],
-					"text" : "s lv-omm_queueTransition"
+					"patching_rect" : [ 325.0, 310.0, 189.0, 22.0 ],
+					"text" : "s lv-omm_queueRewindTransition"
 				}
 
 			}
@@ -177,8 +177,8 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 345.0, 249.0, 213.0, 29.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 268.5, 113.0, 204.5, 29.0 ],
-					"text" : "??? Transition"
+					"presentation_rect" : [ 262.5, 113.0, 204.5, 29.0 ],
+					"text" : "Rewind Transition"
 				}
 
 			}
@@ -192,7 +192,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 312.0, 251.5, 24.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 240.0, 115.5, 24.0, 24.0 ]
+					"presentation_rect" : [ 234.0, 115.5, 24.0, 24.0 ]
 				}
 
 			}
@@ -230,7 +230,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 634.0, 249.0, 213.0, 29.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 512.5, 113.0, 176.0, 29.0 ],
+					"presentation_rect" : [ 513.5, 113.0, 176.0, 29.0 ],
 					"text" : "??? Transition"
 				}
 
@@ -245,7 +245,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 601.0, 251.5, 24.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 484.0, 115.5, 24.0, 24.0 ]
+					"presentation_rect" : [ 485.0, 115.5, 24.0, 24.0 ]
 				}
 
 			}
@@ -267,8 +267,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 41.0, 407.5, 149.0, 22.0 ],
-					"text" : "s lv-omm_queueTransition"
+					"patching_rect" : [ 41.0, 407.5, 172.0, 22.0 ],
+					"text" : "s lv-omm_queueHiHiTransition"
 				}
 
 			}
@@ -284,7 +284,7 @@
 					"patching_rect" : [ 61.0, 344.0, 224.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 42.5, 143.5, 186.5, 29.0 ],
-					"text" : "??? Transition"
+					"text" : "Hi-Hi Transition"
 				}
 
 			}
@@ -336,7 +336,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 634.0, 153.0, 213.0, 29.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 512.5, 81.0, 176.0, 29.0 ],
+					"presentation_rect" : [ 513.5, 81.0, 176.0, 29.0 ],
 					"text" : "TRS Transition"
 				}
 
@@ -351,7 +351,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 601.0, 155.5, 24.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 484.0, 83.5, 24.0, 24.0 ]
+					"presentation_rect" : [ 485.0, 83.5, 24.0, 24.0 ]
 				}
 
 			}
@@ -389,7 +389,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 345.0, 153.0, 213.0, 29.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 268.5, 81.0, 205.0, 29.0 ],
+					"presentation_rect" : [ 262.5, 81.0, 205.0, 29.0 ],
 					"text" : "Stutter Transition"
 				}
 
@@ -404,7 +404,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 312.0, 155.5, 24.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 240.0, 83.5, 24.0, 24.0 ]
+					"presentation_rect" : [ 234.0, 83.5, 24.0, 24.0 ]
 				}
 
 			}
@@ -426,8 +426,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 41.0, 310.0, 183.0, 22.0 ],
-					"text" : "s lv-omm_queueMorphTransition"
+					"patching_rect" : [ 41.0, 310.0, 175.0, 22.0 ],
+					"text" : "s lv-omm_queueGrayTransition"
 				}
 
 			}
@@ -542,7 +542,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 634.0, 53.5, 213.0, 29.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 512.5, 50.0, 176.0, 29.0 ],
+					"presentation_rect" : [ 513.5, 50.0, 176.0, 29.0 ],
 					"text" : "Radio Transition"
 				}
 
@@ -557,7 +557,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 601.0, 52.5, 24.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 484.0, 52.5, 24.0, 24.0 ]
+					"presentation_rect" : [ 485.0, 52.5, 24.0, 24.0 ]
 				}
 
 			}
@@ -583,7 +583,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 345.0, 53.5, 213.0, 29.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 268.5, 50.0, 205.0, 29.0 ],
+					"presentation_rect" : [ 262.5, 50.0, 205.0, 29.0 ],
 					"text" : "Tape Stop Transition"
 				}
 
@@ -598,7 +598,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 312.0, 52.5, 24.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 240.0, 52.5, 24.0, 24.0 ]
+					"presentation_rect" : [ 234.0, 52.5, 24.0, 24.0 ]
 				}
 
 			}
@@ -649,8 +649,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 41.0, 216.0, 176.0, 22.0 ],
-					"text" : "s lv-omm_queueFilterTransition"
+					"patching_rect" : [ 41.0, 216.0, 174.0, 22.0 ],
+					"text" : "s lv-omm_queueHiLoTransition"
 				}
 
 			}
@@ -666,7 +666,7 @@
 					"patching_rect" : [ 61.0, 153.0, 213.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 42.5, 81.0, 187.0, 29.0 ],
-					"text" : "Filter Transition"
+					"text" : "Hi-Lo Transition"
 				}
 
 			}
