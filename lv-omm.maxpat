@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ -1740.0, 207.0, 1213.0, 564.0 ],
+		"rect" : [ 180.0, 177.0, 1213.0, 564.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -13367,7 +13367,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 488.0, 96.0, 50.0, 22.0 ],
-																	"text" : "100"
+																	"text" : "85"
 																}
 
 															}
@@ -15553,7 +15553,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 64.0, 83.777777777777771, 50.0, 22.0 ],
-																	"text" : "100"
+																	"text" : "85"
 																}
 
 															}
@@ -15864,7 +15864,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 100.0, 281.0, 50.0, 22.0 ],
-													"text" : "4"
+													"text" : "13"
 												}
 
 											}
@@ -19530,13 +19530,13 @@
 , 															{
 																"box" : 																{
 																	"id" : "obj-35",
-																	"linecount" : 3,
+																	"linecount" : 2,
 																	"maxclass" : "message",
 																	"numinlets" : 2,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 448.0, 64.0, 50.0, 22.0 ],
-																	"text" : "curiosity-inducing"
+																	"text" : "energetic"
 																}
 
 															}
