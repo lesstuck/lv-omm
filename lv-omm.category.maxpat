@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ -1351.0, 186.0, 612.0, 543.0 ],
+		"rect" : [ -1387.0, 186.0, 648.0, 543.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -163,7 +163,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 14.0, 457.0, 109.0, 22.0 ],
+					"patching_rect" : [ 7.0, 427.0, 109.0, 22.0 ],
 					"text" : "r lv-omm_nextBpm"
 				}
 
