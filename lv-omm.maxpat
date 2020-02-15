@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 221.0, 205.0, 975.0, 485.0 ],
+		"rect" : [ -1796.0, 342.0, 975.0, 485.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -2514,7 +2514,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 389.0, 91.0, 192.0, 22.0 ],
-									"text" : "isabel-psa-1.wav"
+									"text" : "isabel-psa-2.wav"
 								}
 
 							}
@@ -3074,6 +3074,18 @@
 						"subpatcher_template" : "",
 						"boxes" : [ 							{
 								"box" : 								{
+									"id" : "obj-10",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 1,
+									"outlettype" : [ "bang" ],
+									"patching_rect" : [ 3.0, 135.0, 58.0, 22.0 ],
+									"text" : "loadbang"
+								}
+
+							}
+, 							{
+								"box" : 								{
 									"id" : "obj-27",
 									"maxclass" : "newobj",
 									"numinlets" : 0,
@@ -3411,6 +3423,13 @@
 							}
  ],
 						"lines" : [ 							{
+								"patchline" : 								{
+									"destination" : [ "obj-19", 0 ],
+									"source" : [ "obj-10", 0 ]
+								}
+
+							}
+, 							{
 								"patchline" : 								{
 									"destination" : [ "obj-11", 0 ],
 									"source" : [ "obj-12", 0 ]
@@ -5155,14 +5174,14 @@
 																					"patching_rect" : [ 77.0, 457.236328125, 136.0, 30.0 ],
 																					"saved_attribute_attributes" : 																					{
 																						"valueof" : 																						{
+																							"parameter_initial" : [ -24 ],
+																							"parameter_shortname" : "live.gain~",
 																							"parameter_type" : 0,
 																							"parameter_unitstyle" : 4,
 																							"parameter_mmin" : -70.0,
 																							"parameter_longname" : "live.gain~[1]",
 																							"parameter_initial_enable" : 1,
-																							"parameter_mmax" : 6.0,
-																							"parameter_initial" : [ -24 ],
-																							"parameter_shortname" : "live.gain~"
+																							"parameter_mmax" : 6.0
 																						}
 
 																					}
@@ -14640,7 +14659,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 488.0, 96.0, 50.0, 22.0 ],
-																	"text" : "100"
+																	"text" : "85"
 																}
 
 															}
@@ -16826,7 +16845,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 64.0, 83.777777777777771, 50.0, 22.0 ],
-																	"text" : "100"
+																	"text" : "85"
 																}
 
 															}
