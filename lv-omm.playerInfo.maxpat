@@ -318,7 +318,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 707.5, 195.0, 414.0, 22.0 ],
-					"text" : "omm-kz-outofstep-150-C.wav 150 energetic"
+					"text" : "omm-pg-superherosales-165-Am.wav 165 energetic"
 				}
 
 			}
@@ -378,7 +378,7 @@
 					"patching_rect" : [ 129.0, 568.0, 565.0, 25.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 28.0, 50.0, 287.0, 25.0 ],
-					"text" : "omm-dl-facelock-148-C.wav"
+					"text" : "omm-kz-thelastsamba-130-C.wav"
 				}
 
 			}
@@ -405,8 +405,8 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 860.5, 568.0, 198.0, 25.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 335.0, 50.0, 146.0, 25.0 ],
-					"text" : "energetic"
+					"presentation_rect" : [ 320.0, 50.0, 168.0, 25.0 ],
+					"text" : "chill"
 				}
 
 			}
@@ -434,7 +434,7 @@
 					"patching_rect" : [ 705.5, 568.0, 127.0, 25.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 493.0, 50.0, 44.0, 25.0 ],
-					"text" : "148"
+					"text" : "130"
 				}
 
 			}
@@ -694,7 +694,7 @@
 					"patching_rect" : [ 129.0, 473.0, 532.0, 25.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 28.0, 117.0, 287.0, 25.0 ],
-					"text" : "omm-kz-outofstep-150-C.wav"
+					"text" : "omm-pg-superherosales-165-Am.wav"
 				}
 
 			}
@@ -721,7 +721,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 865.0, 473.0, 192.0, 25.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 335.0, 117.0, 146.0, 25.0 ],
+					"presentation_rect" : [ 320.0, 117.0, 168.0, 25.0 ],
 					"text" : "energetic"
 				}
 
@@ -750,7 +750,7 @@
 					"patching_rect" : [ 704.5, 473.0, 128.0, 25.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 493.0, 117.0, 44.0, 25.0 ],
-					"text" : "150"
+					"text" : "165"
 				}
 
 			}
