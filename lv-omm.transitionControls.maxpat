@@ -71,7 +71,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 634.0, 344.0, 190.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 513.5, 143.5, 157.0, 27.0 ],
+					"presentation_rect" : [ 513.5, 143.5, 168.0, 27.0 ],
 					"text" : "??? Transition"
 				}
 
@@ -124,7 +124,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 345.0, 344.0, 195.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 262.5, 143.5, 196.0, 27.0 ],
+					"presentation_rect" : [ 262.5, 143.5, 191.0, 27.0 ],
 					"text" : "CD Skip Transition"
 				}
 
@@ -177,7 +177,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 345.0, 249.0, 194.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 262.5, 113.0, 186.0, 27.0 ],
+					"presentation_rect" : [ 262.5, 113.0, 191.0, 27.0 ],
 					"text" : "Rewind Transition"
 				}
 
@@ -230,8 +230,8 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 634.0, 249.0, 190.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 513.5, 113.0, 157.0, 27.0 ],
-					"text" : "??? Transition"
+					"presentation_rect" : [ 513.5, 113.0, 168.0, 27.0 ],
+					"text" : "Reverse Transition"
 				}
 
 			}
@@ -283,7 +283,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 61.0, 344.0, 195.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 42.5, 143.5, 162.0, 27.0 ],
+					"presentation_rect" : [ 42.5, 143.5, 174.0, 27.0 ],
 					"text" : "Hi-Hi Transition"
 				}
 
@@ -336,7 +336,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 634.0, 153.0, 187.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 513.5, 81.0, 154.0, 27.0 ],
+					"presentation_rect" : [ 513.5, 81.0, 168.0, 27.0 ],
 					"text" : "TRS Transition"
 				}
 
@@ -389,7 +389,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 345.0, 153.0, 190.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 262.5, 81.0, 182.0, 27.0 ],
+					"presentation_rect" : [ 262.5, 81.0, 191.0, 27.0 ],
 					"text" : "Stutter Transition"
 				}
 
@@ -542,7 +542,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 634.0, 53.5, 194.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 513.5, 50.0, 161.0, 27.0 ],
+					"presentation_rect" : [ 513.5, 50.0, 168.0, 27.0 ],
 					"text" : "Radio Transition"
 				}
 
@@ -624,7 +624,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 61.0, 53.5, 195.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 42.5, 50.0, 171.0, 27.0 ],
+					"presentation_rect" : [ 42.5, 50.0, 174.0, 27.0 ],
 					"text" : "Volume Transition"
 				}
 
@@ -665,7 +665,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 61.0, 153.0, 187.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 42.5, 81.0, 165.0, 27.0 ],
+					"presentation_rect" : [ 42.5, 81.0, 174.0, 27.0 ],
 					"text" : "Hi-Lo Transition"
 				}
 
